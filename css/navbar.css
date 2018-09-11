@@ -1,0 +1,8 @@
+.circd{
+    border-radius: 150px 150px 150px 150px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    align-content: center;
+    top: 100px;
+}

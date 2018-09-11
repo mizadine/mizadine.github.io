@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/05/Solid-Dark-Navy-Blue-Wallpaper.png");
+}
+.myJumbo{
+    text-align: center;
+    color: rgb(16, 20, 73);
+    text-shadow: 2px 2px 2px 2px;
+    background-color: wheat;
+}
